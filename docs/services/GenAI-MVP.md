@@ -6,6 +6,8 @@ GovTechMidtjylland has conducted a GenAI pilot experiment to investigate:
 The GenAI code can be reviewed here: https://github.com/itk-dev/ai-launchpad
 
 ## Performance testing
+As part of the implementation, a performance test was conducted:
+
 Testing VLLM instead of OLLAMA
 Performance optimization with quantization
 Currently running on a 2-GPU server at Hetzner
