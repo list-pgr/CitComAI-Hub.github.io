@@ -3,7 +3,7 @@ GovTechMidtjylland has conducted a GenAI pilot experiment to investigate:\
 1: what does it take for a munucipality to develop, run and implement a GenAI in a public context?
 2: which usecases can benefit from a GenAI solution?
 
-The GenAI code can be reviewed here: https://github.com/itk-dev/ai-launchpad
+The GenAI repo can be reviewed here: https://github.com/itk-dev/ai-launchpad
 
 ## Performance testing
 As part of the implementation, a performance test was conducted:
