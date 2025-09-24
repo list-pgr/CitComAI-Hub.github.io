@@ -1,2 +1,2 @@
-#GenAI MVP experiment
+# GenAI MVP experiment
 hej hej
