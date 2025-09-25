@@ -24,4 +24,13 @@ Minimal interoperable AI services for platforms compatible with MIMs:
 
     [:octicons-arrow-right-24: Deployment guide](./wastecontainer_location_optimization.md)
 
+-   :material-robot-outline:{ .lg .middle } __GenAI__
+
+    ---
+    ![genai_pilot](img/itk.png){ loading=lazy }
+
+    GovTechMidtjylland GenAI pilot experiment.
+
+    [:octicons-arrow-right-24: Deployment guide](./GenAI-MVP.md)
+
 </div>

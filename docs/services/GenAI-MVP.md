@@ -1,4 +1,5 @@
 # GenAI MVP experiment
+
 GovTechMidtjylland has conducted a GenAI pilot experiment to investigate:
 
 - **1:** What does it take for a munucipality to develop, run and implement a GenAI in a public context?
