@@ -24,8 +24,8 @@ If we can accept up to 4 sec. response time for the first token, 1 server can ha
 ![screenshot3](/docs/services/img/Time_to_first_token_3.jpg)\
 **With 2 servers – 380 simultaneous users**\
 max response time of 4.5 sec. for the first token.\
-![screenshot4](/docs/services/img/Time_to_first_token_4.jpeg)\
+![screenshot4](/docs/services/img/Time_to_first_token_4.jpg)\
 **Comparison between AQW and GPTQ**\ 
 Without quantization at 380 simultaneous users.\
 At 500 simultaneous users (GPTQ) – response time up to 7 sec., but we still respond!\
-![screenshot5](/docs/services/img/Time_to_first_token_5.jpeg)\
+![screenshot5](/docs/services/img/Time_to_first_token_5.jpg)\
