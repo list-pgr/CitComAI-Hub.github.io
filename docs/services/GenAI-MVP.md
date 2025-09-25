@@ -12,12 +12,12 @@ Testing VLLM instead of OLLAMA\
 Performance optimization with quantization\
 Currently running on a 2-GPU server at Hetzner\
 Requires 20 GB VRAM – therefore it cannot run on Azure (only has 16 GB)!\
-**![Screenshot](/docs/services/img/Time_to_first_token_1.jpg)**\
+![Screenshot](/docs/services/img/Time_to_first_token_1.jpg)\
 1 server (system prompt response set to min. 50-150 words)\
 – handles up to 250 simultaneous requests\
 – breaks at 180\
 Response time – 0-60 sec.\
-**Time to frist token 2**\
+![Screenshot](/docs/services/img/Time_to_first_token_2.jpg)\
 1 server\
 Max response time vs. number of requests\
 If we can accept up to 4 sec. response time for the first token, 1 server can handle approximately 180 requests at a time. Multiply the number with the number of servers: 2 servers = 360 simultaneous users.\
