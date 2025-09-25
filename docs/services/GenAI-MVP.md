@@ -12,7 +12,7 @@ Testing VLLM instead of OLLAMA\
 Performance optimization with quantization\
 Currently running on a 2-GPU server at Hetzner\
 Requires 20 GB VRAM – therefore it cannot run on Azure (only has 16 GB)!\
-**![Screenshot](docs/services/img/Time _to_first_token_1.jpg)**\
+**![Screenshot](/docs/services/img/Time _to_first_token_1.jpg)**\
 1 server (system prompt response set to min. 50-150 words)\
 – handles up to 250 simultaneous requests\
 – breaks at 180\
