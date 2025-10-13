@@ -128,51 +128,9 @@ AUTH_PASSWORD="xxxxx"
 ## Running MIAIS in Level 2
 At Level 2, deploying the MAIS requires integration with the **data space infrastructure**. The AI service no longer connects directly to raw NGSI-LD endpoints; instead, it accesses data via the standardized interface provided by the connector. This approximation guarantees that all data exchanges are **traceable, governed, and policy-compliant**.
 
-<figure>
-```mermaid
-graph TD
-  %% Top-level box for Participants
-  subgraph DSP["**Data Space**"]
-
-    %% Single Trust Anchor box
-    TA["**Trust Anchor**"]
-
-    %% Consumer is the DSC itself
-    subgraph C["**Consumer (DSC)**"]
-      KC["Keycloak"]
-    end
-
-    %% Provider is the DSC itself
-    subgraph P["**Provider (DSC)**"]
-      APISIX["Data Service Endpoint (APISIX)"]
-    end
-
-  end
-
-  %% AI Service (declared first so it appears above)
-  AI["🤖 **AI Service**"]
-
-  %% Wallet Identity (declared after AI to force lower position)
-  WI["🪪 **Wallet Identity**"]:::wallet
-
-  %% Credential flow
-  AI -->|Gets credentials| KC
-
-  %% Data access flow (direct)
-  AI -->|Requests data with credentials| APISIX
-
-  %% Undirected visual connection (no arrow)
-  AI --- WI
-
-  %% Trust triangle (dotted lines)
-  TA -.-> C
-  TA -.-> P
-  C -.->|Consumer is registered into Provider| P
-
-  %% Style for Wallet Identity box
-  classDef wallet fill:#dcdcdc,stroke:#a1a1a1;
-```
-<figcaption>Figure 2: MIAIS integration at Level 2</figcaption>
+<figure markdown>
+  ![Level 2 MIAIS](img/level2_miais.png){ loading=lazy }
+  <figcaption>Figure 2: MIAIS integration at Level 2</figcaption>
 </figure>
 
 To illustrate the case (see Figure 2), a simple data space structure is assumed, composed of a **trust anchor, a data space connector in the provider role, and another in the role of consumer**. The data provider and the consumer are **registered in the trust anchor**, establishing a trust relationship. Moreover, the **consumer is registered in the provider's Trusted Issuer List**, which allows the consumer to issue credentials to third parties with permissions to access the provider's data.
