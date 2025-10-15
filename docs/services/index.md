@@ -11,6 +11,7 @@ Minimal interoperable AI services for platforms compatible with MIMs:
 
     ---
     ![Waste Collection](img/waste_collection.gif){ loading=lazy }
+    
     Optimize city waste collection routes.
 
     [:octicons-arrow-right-24: Deployment guide](./waste_collection.md)
