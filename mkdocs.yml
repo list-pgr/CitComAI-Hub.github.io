@@ -67,6 +67,7 @@ nav:
       - Minimal Interoperable AI Service: services/waste_collection.md
       - Container Location Optimization: services/wastecontainer_location_optimization.md
       - GenAI GovTechMidtjylland: services/GenAI-MVP.md
+      - Healthy Routes: services/healthy_routes.md
   - TEF Nodes:
       - tef/index.md
       - Nordic - POWER: 
