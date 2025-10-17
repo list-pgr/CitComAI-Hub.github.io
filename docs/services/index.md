@@ -11,6 +11,7 @@ Minimal interoperable AI services for platforms compatible with MIMs:
 
     ---
     ![Waste Collection](img/waste_collection.gif){ loading=lazy }
+    
     Optimize city waste collection routes.
 
     [:octicons-arrow-right-24: Deployment guide](./waste_collection.md)
@@ -32,5 +33,15 @@ Minimal interoperable AI services for platforms compatible with MIMs:
     GovTechMidtjylland GenAI pilot experiment.
 
     [:octicons-arrow-right-24: Deployment guide](./GenAI-MVP.md)
+
+
+-   :material-walk:{ .lg .middle } __Healthy Routes__
+
+    ---
+    ![Healthy Routes](img/healthy_route_example.png){ loading=lazy }
+
+    Pollution-aware route optimization.
+
+    [:octicons-arrow-right-24: Deployment guide](./healthy_routes.md)    
 
 </div>
