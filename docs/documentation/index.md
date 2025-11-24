@@ -48,3 +48,17 @@ Reports and deployment guides of different components.
     [:octicons-arrow-right-24: Learn more](./data_federation/index.md)
 
 </div>
+
+## Deploying a Minimum Viable Data Space
+
+<div class="grid cards" markdown>
+
+-   :material-rocket-launch-outline:{ .lg .middle } __MV Data Space__
+
+    ---
+
+    Step-by-step instructions for deploying a Minimum Viable Data Space (MVDS) on AWS.
+
+    [:octicons-arrow-right-24: Learn more](./mv_data_space/index.md)
+
+</div>

@@ -23,6 +23,13 @@ This demo adheres to **Level 1** interoperability as defined by CitCom's [intero
 >
 > These adjustments enable the demo to work seamlessly with Valencia's available datasets while maintaining compatibility with Smart Data Models where possible.
 
+
+!!! Note "Level 2 of interoperability"
+
+    To adapt the demo application to Level 2 of interoperability, it must operate within a data **space infrastructure**, where data exchanges are **traceable, governed, and policy-compliant**. Instead of connecting directly to raw data sources, the application interacts through standardized **connectors** that manage trust and authorization. This setup involves registering the application with identity services, using **verifiable credentials** to prove access rights, and ensuring that all data exchanges are traceable and aligned with governance rules. 
+
+    A detailed walkthrough of this process, including example scripts and deployment steps, is available on the [MIAIS repository section](./waste_collection.md#running-miais-in-level-2). This resource illustrates how to integrate an AI service into a Level 2 environment using a minimum viable data space configuration. 
+
 ## Features
 - Map UI with route selection between monuments
 - Compute fastest route and alternatives
@@ -52,12 +59,13 @@ This demo adheres to **Level 1** interoperability as defined by CitCom's [intero
 
 3. Activate the virtual environment:
 
-    * On Windows:
+    - On Windows:
 
         ```bash
         .venv\Scripts\activate
         ```
-    * On macOS/Linux:
+
+    - On macOS/Linux:
         ```bash
         source .venv/bin/activate
         ```
