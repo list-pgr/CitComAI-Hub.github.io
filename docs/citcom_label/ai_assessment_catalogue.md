@@ -47,19 +47,19 @@ If you would like to request an assessment or learn more about a tool, please co
 /* Make ALL columns narrow by default */
 .md-typeset table:not(.no-format) th,
 .md-typeset table:not(.no-format) td {
-    width: 80px;
+    width: 60px;
 }
 
-/* Make the Example of Use Case column (9th) wide */
+/* Make the Resources column (9th) small */
 .md-typeset table:not(.no-format) th:nth-child(9),
 .md-typeset table:not(.no-format) td:nth-child(9) {
-    width: 450px;  /* adjust as you want */
+    width: 100px;
 }
 
-/* Force the last column (10th: Resources) to be small */
+/* Make the last column (10th: Example of Use Case) wide */
 .md-typeset table:not(.no-format) th:nth-child(10),
 .md-typeset table:not(.no-format) td:nth-child(10) {
-    width: 120px; /* prevents it from expanding */
+    width: 500px;
 }
 
 </style>
