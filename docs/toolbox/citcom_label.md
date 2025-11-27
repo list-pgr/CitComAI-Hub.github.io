@@ -2,6 +2,7 @@
 
 The Citcom Label is an initiative currently under development within Citcom.ai. Its goal is to create a trusted, recognisable signal that helps AI providers demonstrate responsible practices and gives buyers—especially public-sector actors such as smart cities—a clearer basis for evaluating and procuring AI solutions.
 
+
 ## What will the Citcom Label be?
 
 The label is envisioned as a **system of digital badges**, each representing a specific dimension of trustworthiness assessed during the evaluation process.  
@@ -26,3 +27,26 @@ Initial discussions point toward setting minimum quantitative and qualitative th
 
 ### Real-world validation  
 Evaluations are expected to rely on practical or pilot scenarios using the actual product, ensuring that results reflect real-world behaviour.
+
+
+## Who will conduct the assessment and with which methodologies?
+
+The assessment behind each Citcom badge will be carried out by the participating TEF sites. Each site brings its own specialised methodologies, tools, and testing infrastructures, reflecting the diversity of technical expertise across the Citcom network.
+
+These assessment solutions cover different dimensions of trustworthiness and can be consulted through the **AI Assessment Catalogue**, available at the following link:
+
+****
+
+The catalogue provides an overview of the available evaluation tools, test suites, and methodologies, enabling innovators to understand which capabilities are applied to their systems and helping cities see how specific trust dimensions are assessed.
+
+### Can an AI provider receive assessments across multiple TEF sites?
+
+Yes. If a solution would benefit from complementary expertise available across several TEF sites, an AI provider can undergo assessments in multiple locations. In such cases, the **first-contact TEF site** will coordinate the overall process.
+
+The coordinating TEF site will:
+- connect with the additional TEF sites that carry out their assessments independently,
+- ensure that each participating site manages its own contractual and operational responsibilities,
+- consolidate the evaluation results into a unified report,
+- and oversee the issuance of the Citcom badges corresponding to the dimensions assessed across all sites.
+
+This ensures a seamless experience for AI innovators while leveraging the full breadth of expertise across the TEF network.
