@@ -20,15 +20,9 @@ hide:
 
 <div class="catalog-header" markdown>
 <div markdown>
-The AI Assessment Catalogue is a centralized hub showcasing the evaluation tools, testing frameworks, and assessment solutions available across the TEF network.  
+The AI Assessment Catalogue is a centralized hub showcasing the evaluation tools, testing frameworks, and assessment solutions available across the Citcom.ai TEF network.  
 It is regularly updated as new methodologies and tools become available at each TEF site.  
-If you would like to request an assessment or learn more about a tool, please click **Contact** or open the linked resources.
-
-!!! question "[How to add new assessment solutions?](./instructions.md)"
-</div>
-
-[:simple-github: Add New Assessment Solution](https://github.com/CitComAI-Hub/CitComAI-Hub.github.io/issues/new/choose){:target="_blank" .md-button .md-button--primary-light }
-</div>
+If you would like to request an assessment or learn more about a tool, please contact the relevant TEF sites.
 
 <!-- Search input -->
 <div class="search-container">
@@ -50,7 +44,7 @@ If you would like to request an assessment or learn more about a tool, please cl
 
 | Solution Name | Provider | Licensing Type | Project Phase / TRL | Domain of Application | AI Risk Category | Ethical Dimensions | Security & Securitization of Data | Example of Use Case | Resources |
 |---------------|----------|----------------|----------------------|------------------------|------------------|--------------------|-----------------------------------|----------------------|-----------|
-| **FAIRGAME** | LIST | Open-source | TRL 6–8 | LLM bias testing, AI agents behavioural testing, jailbreaking testing | General Purpose AI | Fairness, Robustness | Depends on the use case (whether the chatbot/AI agent has access to sensitive data) | A city aims to test its citizen-facing chatbot before launch. FAIRGAME enables the creation of simulated users with diverse identities, personalities, and requests using LLMs, allowing evaluation in dynamic, real-world-like conversations. | GitHub: <https://github.com/aira-list/FAIRGAME>, Paper: <https://arxiv.org/abs/2504.14325> |
+| **FAIRGAME** | LIST | Open-source | TRL 6–8 | LLM bias testing, AI agents behavioural testing, jailbreaking testing | General Purpose AI | Fairness, Robustness | Depends on the use case (whether the chatbot/AI agent has access to sensitive data) | A city aims to test its citizen-facing chatbot before launch. FAIRGAME enables the creation of simulated users with diverse identities, personalities, and requests using LLMs, allowing evaluation in dynamic, real-world-like conversations. | GitHub: <https://github.com/aira-list/FAIRGAME>, Paper: <https://ebooks.iospress.nl/volumearticle/76236?_gl=1*1q20eba*_up*MQ..*_ga*NzAzMjg1NjIzLjE3NjE1NjMyMzc.*_ga_6N3Q0141SM*czE3NjE1NjMyMzckbzEkZzEkdDE3NjE1NjM0MDEkajYwJGwwJGgw> |
 | **MLA-BiTe** | LIST | To be open sourced | TRL 6–8 | LLM bias testing | General Purpose AI | Fairness, Robustness | No data privacy requirements | A city plans to evaluate fairness in its citizen-facing chatbot. MLA-BiTe allows non-technical staff to create local scenario-based prompts to uncover discriminatory behaviour across sensitive categories, supporting multiple languages and augmentations. | — |
 | **Legal KG-RAG** | LIST | Proprietary | TRL 5–7 | LLM factuality accuracy testing | General Purpose AI | Transparency, Explainability, Robustness | Depends on whether the RAG is performed on sensitive data | A city using a standard RAG pipeline obtains irrelevant results. Legal KG-RAG rebuilds the legal corpus as a Neo4j knowledge graph, enabling direct comparison between traditional and KG-enhanced retrieval. | — |
 | **MLA-Reject** | LIST | To be open sourced | TRL 6–8 | LLM robustness to jailbreaking | General Purpose AI | Robustness | Depends on whether the system has access to sensitive data | A public administration operates a multilingual assistant for internal queries. They want to test robustness against unsafe or misleading prompts. MLA-Reject generates difficult negative prompts to test refusal behaviour and safety guardrails, revealing weaknesses and improving configurations. | — |

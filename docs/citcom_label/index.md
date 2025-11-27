@@ -35,7 +35,7 @@ The assessment behind each Citcom badge will be carried out by the participating
 
 These assessment solutions cover different dimensions of trustworthiness and can be consulted through the **AI Assessment Catalogue**, available at the following link:
 
-****
+[AI Assessment Catalogue](ai_assessment_catalogue.md)
 
 The catalogue provides an overview of the available evaluation tools, test suites, and methodologies, enabling innovators to understand which capabilities are applied to their systems and helping cities see how specific trust dimensions are assessed.
 
