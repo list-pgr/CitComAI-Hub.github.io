@@ -20,7 +20,7 @@ hide:
 
 <div class="catalog-header" markdown>
 <div markdown>
-The AI Assessment Catalogue is a centralized hub showcasing the evaluation tools, testing frameworks, and assessment solutions available across the Citcom.ai TEF network.  
+The AI Assessment Catalogue showcases the evaluation tools, testing frameworks, and assessment solutions available across the Citcom.ai TEF network.  
 It is regularly updated as new methodologies and tools become available at each TEF site.  
 If you would like to request an assessment or learn more about a tool, please contact the relevant TEF sites.
 
@@ -41,6 +41,20 @@ If you would like to request an assessment or learn more about a tool, please co
         </span>
     </button>
 </div>
+
+<style>
+/* Make all columns narrower */
+.md-typeset table:not(.no-format) th,
+.md-typeset table:not(.no-format) td {
+    width: 80px;
+}
+
+/* Make the Example of Use Case column (9th column) wider */
+.md-typeset table:not(.no-format) th:nth-child(9),
+.md-typeset table:not(.no-format) td:nth-child(9) {
+    width: 350px;
+}
+</style>
 
 | Solution Name | Provider | Licensing Type | Project Phase / TRL | Domain of Application | AI Risk Category | Ethical Dimensions | Security & Securitization of Data | Example of Use Case | Resources |
 |---------------|----------|----------------|----------------------|------------------------|------------------|--------------------|-----------------------------------|----------------------|-----------|
