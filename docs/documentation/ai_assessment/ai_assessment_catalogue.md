@@ -1,5 +1,5 @@
 ---
-icon: material/robot-search-outline
+# icon: material/robot-search-outline
 title: AI Assessment Catalogue
 hide:
   - toc

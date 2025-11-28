@@ -66,6 +66,7 @@ nav:
         - documentation/local_digital_twins/index.md
       - AI Assessment:
         - documentation/ai_assessment/index.md
+        - documentation/ai_assessment/ai_assessment_catalogue.md
   - AI services:
       - services/index.md
       - Minimal Interoperable AI Service: services/waste_collection.md
