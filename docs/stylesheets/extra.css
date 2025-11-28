@@ -5,14 +5,14 @@
     font-style: normal;
 }
 
-body {
-    font-family: 'FK Grotesk';
-    color: #000;
-}
 
 /* Fix for rendering SVGs in Safari */
 .md-nav__link svg {
     transform: translate(0, 0);
+}
+
+.md-header__title{
+    font-family: 'FK Grotesk', sans-serif;
 }
 
 sup {
@@ -51,4 +51,22 @@ footer .footer-tagline p {
     font-size: 0.4rem;
     margin: 0;
     padding: 0;
+}
+
+figure {
+  max-width: 100% !important;
+  width: auto !important;
+}
+
+figure > svg {
+  width: 100% !important;
+  height: auto !important;
+}
+
+/* Center images inside cards/grid without requiring HTML in markdown */
+.grid.cards img {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+        height: auto;
 }

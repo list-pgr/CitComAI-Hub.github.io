@@ -8,11 +8,24 @@ Center Denmark is located in Fredericia, Denmark, and serves as a national hub f
 
 Center Denmark provides secure and structured data infrastructure that supports collaboration between utilities, AI innovators, and researchers. The site plays a central role in bridging the gap between data availability and AI application by making validated utility datasets accessible for development, testing, and scaling of smart solutions that support the green transition.
 
-**In short:** Center Denmark provides access to high-quality utility data through a dedicated **data portal**, offering both **downloadable datasets** and **API-based access** – ready for use in **AI, analytics, and research**.
+In short: Center Denmark provides access to high-quality utility data through a dedicated data portal, offering both downloadable datasets and API-based access – ready for use in AI, analytics, and research.
 
 ## Services Offered
 
-The following services provided by Center Denmark as part of the CitCom.ai ecosystem are focused on enabling **secure, structured, and value-driven access to utility data**. Whether for collaboration between utilities and service providers, academic research, or early-stage experimentation, the services make it possible to work with real-world data from electricity, water, heating, gas, and PtX – all compliant with GDPR and tailored to different needs.
+The following services provided by Center Denmark as part of the CitCom.ai ecosystem are focused on enabling secure, structured, and value-driven access to utility data. Whether for collaboration between utilities and service providers, academic research, or early-stage experimentation, the services make it possible to work with real-world data from electricity, water, heating, gas, and PtX – all compliant with GDPR and tailored to different needs.
+
+### Available Services and Example Datasets
+
+Center Denmark builds customised datasets based on specific needs and can also provide predefined datasets for common use cases.  
+To create tailored datasets, the platform combines a wide range of **trusted data sources** from utilities and public registers, ensuring they are structured, cleaned, and ready for use in AI training, research, forecasting, or infrastructure planning.
+
+In addition to customised datasets, Center Denmark offers predefined datasets representing some of the most frequently requested data domains:
+
+- **District Heating Data** – time-series consumption and production data, typically aggregated to daily values.  
+- **Water Data** – metered water consumption datasets, supporting both operational and analytical applications.  
+- **Electricity Data** – household or aggregated consumption data, enabling load analysis, forecasting, and optimization use cases.  
+
+A full overview of available data sources and datasets can be explored via [**portal.centerdenmark.com**](https://portal.centerdenmark.com) or in the **Data Catalouge**. 
 
 ### Service 1: Access to Utility Data for Co-developed Digital Services  
 This service supports collaboration between utility companies and service providers by granting access to structured and enriched utility data. The data is typically used for AI and analytics purposes such as forecasting, predictive maintenance, or grid planning.  
@@ -39,14 +52,12 @@ It is designed for early-stage experimentation, prototyping, education, and expl
 
 ## Infrastructure Components
 
-Describe the key infrastructure components available at the TEF Site, including data platforms, local digital twins, specific hardware, IoT platforms, or any other relevant technologies.
+* **Data Platforms:** Data is available from Center Denmark’s secure data platform, providing structured, GDPR-compliant datasets from utilities and public sources. Data can be accessed via RESTful APIs or by downloading datasets through the Data Portal (portal.centerdenmark.com).  
+* **Local Digital Twins:** Center Denmark does not deliver a digital twin itself but provides the data infrastructure and standardized interfaces (aligned with Smart Data Models format) that enable third parties to build digital twins on top of the platform.  
+* **Specific Hardware:** No physical sensors or field devices are operated directly by Center Denmark. Data is sourced from utility partners’ smart meters, SCADA/SRO systems, and IoT devices. High-performance compute resources and secure servers are used for data ingestion, processing, and structuring.  
+* **IoT Platforms:** Data streams from IoT sources, such as smart meters, SCADA systems, weather stations, and building sensors, are securely integrated via partner-provided connections and standardized for use on the platform.  
+* **Visualization Platforms:** Visualization is primarily based on open-source tools such as Apache Superset, offering flexible dashboards and analytics. The platform also supports integration with Power BI and other external visualization environments as needed.  
 
-- **Data Platforms**: [Description of the data platforms available]
-- **Local Digital Twins**: [Details about any local digital twin infrastructure]
-- **Specific Hardware**: [Details about specialized hardware available, such as sensors, servers, etc.]
-- **IoT Platforms**: [Information about IoT systems or platforms in use at the site]
-- **Visualization platforms**: [Information about large scale visualisation components]
-- **Other**: [Any other relevant infrastructure to showcase]
 
 <table>
   <tr>
@@ -105,35 +116,25 @@ The full overview of available data sources and formats can be explored at [**po
 
 > All data is processed in compliance with GDPR and access is granted based on appropriate legal agreements with data owners.
 
-## Key Stakeholders and Partners
-
-Provide a list of the key stakeholders and partners involved in the TEF Site. Include any academic institutions, industry collaborators, and other stakeholders.
-
-- **Stakeholder 1**: [Name and description of the stakeholder, e.g., university, research institute, industry partner]
-- **Stakeholder 2**: [Description]
-- **Stakeholder 3**: [Description]
-
 ## Contact Information
 
-Provide contact details for those responsible for the TEF Site or who can provide more information to collaborators or users.
+For any inquiries or collaboration opportunities related to the TEF Site at Center Denmark, please contact the relevant team member:
 
-- **Site Coordinator**: [Name and contact details]
-- **Technical Support**: [Name and contact details]
-- **General Inquiries**: [Name and contact details]
+- **Site Coordinator**  
+  **Britt Reenberg**  
+  Head of PMO  
+  📧 brir@centerdenmark.com
 
-## Additional Information
+- **Technical Support**  
+  **Thomas Thue Sørensen**  
+  Senior Data Engineer  
+  📧 thomas.soerensen@centerdenmark.com
 
-Any other relevant information that might be useful to collaborators or developers working with the TEF Site, such as specific protocols, access instructions, or unique capabilities.
+- **General Inquiries**  
+  **Andreas Okkels O. Thomsen**  
+  Senior Business Developer  
+  📧 andreas.thomsen@centerdenmark.com
 
-Example:
-The TEF Site offers unique capabilities in [specific field], and it is open to collaboration with other EU projects in the area of [related field].
-
-## Documentation and Resources
-
-Link to any relevant documentation or resources, such as technical specifications, API documentation, or guides for using services at the TEF Site.
-
-- [Documentation Link 1](#)
-- [Documentation Link 2](#)
 
 ---
 
