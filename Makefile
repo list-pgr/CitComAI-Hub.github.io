@@ -17,7 +17,7 @@ virtenv_create:
 .PHONY: run_mkdocs
 ## Run mkdocs
 run_mkdocs:
-	source $(VENV_NAME)/bin/activate && mkdocs serve
+	source $(VENV_NAME)/bin/activate && mkdocs serve --livereload
 
 ################################################################################
 # Self Documenting Commands                                                    #

@@ -9,6 +9,7 @@ extra_css:
   - stylesheets/extra.css
   - stylesheets/neoteroi-mkdocs.css
   - assets/css/data_catalog.css
+  - assets/css/ai_assess_catalog.css
 extra_javascript:
   - assets/js/data_catalog.js
 theme:
@@ -66,6 +67,7 @@ nav:
         - documentation/local_digital_twins/index.md
       - AI Assessment:
         - documentation/ai_assessment/index.md
+        - documentation/ai_assessment/ai_assessment_catalogue.md
   - AI services:
       - services/index.md
       - Minimal Interoperable AI Service: services/waste_collection.md
