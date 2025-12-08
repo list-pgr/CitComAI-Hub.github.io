@@ -36,7 +36,7 @@ The Local Digital Twin Demonstrator Bundle is an application stack designed to p
 
 ## System Architecture
 
-![System Architecture Diagram](img/ldt-demonstrator.svg){ width=50% }
+![System Architecture Diagram](img/ldt-demonstrator.svg)
 
 The demonstrator integrates S3 and IoT data via Kafka, processes events through an IoT Agent, and manages context in Stellio Context Broker. All changes are published as Kafka events, feeding analytics and visualization tools.
 
@@ -60,16 +60,16 @@ The demonstrator integrates S3 and IoT data via Kafka, processes events through 
 
 ### Iteration 1: Descriptive Twin
 - Presents the current and historical state of the real-world asset, including both static and dynamic characteristics.
-- ![Descriptive Twin](img/descriptive-twin.png)
 
+    <img src="img/descriptive-twin.png"  width="350" />
 ### Iteration 2: Predictive Twin
 - Builds on the descriptive twin by providing predictions of how the asset may evolve.
-- ![Predictive Twin](img/predictive-twin.png)
 
+    <img src="img/predictive-twin.png"  width="350" />
 ### Iteration 3: Prospective Twin
 - Enables “what-if” analysis by allowing users to simulate the impact of potential actions on the asset.
-- ![Prospective Twin](img/prospective-twin.png)
 
+    <img src="img/prospective-twin.png"  width="350" />
 ---
 
 ## References
