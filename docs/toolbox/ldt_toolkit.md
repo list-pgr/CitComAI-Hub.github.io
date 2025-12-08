@@ -36,7 +36,7 @@ The Local Digital Twin Demonstrator Bundle is an application stack designed to p
 
 ## System Architecture
 
-![System Architecture Diagram](img/ldt-demonstrator.svg)
+![System Architecture Diagram](img/ldt-demonstrator.svg){ width=50% }
 
 The demonstrator integrates S3 and IoT data via Kafka, processes events through an IoT Agent, and manages context in Stellio Context Broker. All changes are published as Kafka events, feeding analytics and visualization tools.
 
