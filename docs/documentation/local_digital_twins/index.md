@@ -76,9 +76,8 @@ Starting from the bottom to the top layer, the following questions help structur
 **Why it matters:** Visualizations are a key interface between the Local Digital Twin (LDT) and its users.  
 **Outcome:** It gives a clear overview of current visualization capabilities and technologies (Kepler.gl, PowerBI, Grafana etc.).
 
-The following section shows two examples for which template the template was applied.
-
 ## Resulting Examples
+The following sections provide two examples where the template has been applied.
 
 ### Luxembourg Institute of Science and Technology / Luxembourg TEF - LDT For Electromobility​
 
