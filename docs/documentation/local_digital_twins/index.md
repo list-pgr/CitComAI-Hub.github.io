@@ -6,12 +6,12 @@ title: Local Digital Twins
 
 Local Digital Twins (LDTs) are at the forefront of transforming how cities and communities leverage data and technology to address complex challenges. As the demand for AI-ready and interoperable systems grows, it becomes imperative to establish a unified approach that ensures seamless integration and collaboration across diverse LDT environments. This section introduces the collective efforts and strategic vision aimed at achieving this goal, setting the stage for the technical and strategic objectives outlined below. By fostering interoperability and aligning with open standards, we pave the way for scalable, sustainable, and innovative solutions that benefit both local and European-wide initiatives.
 
-## Strategic Goals
+### Strategic Goals
 - Assess Cross-Site Interoperability: Evaluate the feasibility and value of enhancing interoperability among LDTs across TEF sites
 - Evolve LDTs: Recommend improvements to LDTs and explore common cross-site infrastructure (e.g., data spaces, AI model repositories)
 - Define Joint Pilots: Identify and test pilots to validate proposed ideas in real-world scenarios
 
-## Technical Goals
+### Technical Goals
 - Aligning with the EU LDT Toolbox, FIWARE and open standards like ETSI NGSI-LD
 - Ensuring LDTs can seamlessly integrate AI models by providing structured, standardized, and accessible data
 - Develop a “blueprint” for interoperable LDTs across TEF sites
@@ -22,6 +22,8 @@ Local Digital Twins (LDTs) are at the forefront of transforming how cities and c
 To facilitate collaboration and drive progress towards these goals, we established the LDT Club—a dedicated forum where stakeholders can share insights, align strategies, and collectively address challenges. This collaborative platform serves as a cornerstone for fostering innovation and ensuring that the transition to AI-ready and interoperable LDTs is both inclusive and effective.
 
 Meeting minutes, recordings and further materials related to the LDT Club are available under https://imecinternational.sharepoint.com/:f:/r/sites/Citcom.aiTEF/Shared%20Documents/WP3%20-%20Infrastructure/T3.2/LDT%20Club?csf=1&web=1&e=zyhvcL.
+
+For more details on the tools and methodologies supporting the development of Local Digital Twins, refer to the [LDT Toolkit](../../toolbox/ldt_toolkit.md).
 
 ## Scenario: CitCom.AI – EDIC LDT - CitiVerse
 
