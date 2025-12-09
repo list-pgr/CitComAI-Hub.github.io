@@ -80,7 +80,7 @@ The following section shows two examples for which template the template was app
 
 ## Resulting Examples
 
-### Lux TEF LDT For Electromobility​
+### Luxembourg Institute of Science and Technology / Luxembourg TEF - LDT For Electromobility​
 
 **Question:**\
 What are the city-services supported by your LDT?\
@@ -117,7 +117,7 @@ What kind of visualizations is your LDT supporting?\
 **Answer:**\
 All visualizations are integrated in a single LDT front-end. A mapbox based visualization shows the relevant entities (buildings with PVs, charging stations and POIs)  on a geographical map. Chart.js based graphs are built according to city's needs, they can be grouped into a dashboard. Separation of real/historical telemetries and generated one.  
 
-### Aarhus City Lab / Denmark TEF - BIPED Digital Twin​ - Answers
+### Aarhus City Lab / Denmark TEF - BIPED Digital Twin​
 
 **Question:** What are the city-services supported by your LDT?\
 **Answer:**\
