@@ -36,7 +36,8 @@ AI innovators begin by collaborating with CitCom.AI TEF sites, where they can ac
 Once solutions are successfully demonstrated within CitCom.AI, innovators can leverage the established interoperability and best practices to integrate their solutions into the broader EDIC federated LDT network. This pathway ensures that innovations are not only tested in realistic scenarios but are also ready for seamless adoption and scaling across multiple European cities and communities through the EDIC framework.
 
 To ensure interoperability, the CitCom.AI LDTs, currently a set of heterogeneous and independent systems, should adopt common standards and frameworks outlined in the EU LDT Toolbox. This includes aligning data models, APIs, and communication protocols to enable seamless integration and collaboration across the EDIC federated LDT network.\
-Conducting a gap analysis between CitCom.AI LDTs and the EU LDT Toolbox is crucial to identify areas where alignment is needed. This analysis will help pinpoint discrepancies in data models, APIs, and communication protocols, ensuring that AI solutions tested within CitComAI can transition seamlessly to the EDIC federated network. By addressing these gaps, the pathway for AI innovators to scale their solutions across Europe becomes more efficient and less fragmented.\
+Conducting a gap analysis between CitCom.AI LDTs and the EU LDT Toolbox is crucial to identify areas where alignment is needed. This analysis will help pinpoint discrepancies in data models, APIs, and communication protocols, ensuring that AI solutions tested within CitComAI can transition seamlessly to the EDIC federated network. By addressing these gaps, the pathway for AI innovators to scale their solutions across Europe becomes more efficient and less fragmented.
+
 
 ## How to start with a gap analysis?
 
