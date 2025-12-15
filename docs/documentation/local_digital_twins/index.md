@@ -49,7 +49,8 @@ The diagram above illustrates the different layers and tools of the EU LDT Toolb
 Starting from the bottom to the top layer, the following questions help structure your gap analysis. Each question is paired with its rationale and expected outcome to guide your assessment:
 
 ### 1. Question: What are the city-services supported by your LDT?
-**Related layer:** Services\
+**Related layer:** Services
+
 **Why it matters:** It clarifies which service domains (e.g. mobility, energy, waste) each LDT addresses. This helps identify overlaps, complementary areas, and opportunities for aligning use-case-specific models or indicators. \
 **Outcome:** Provides a shared view of functional scope across partners, guiding discussions on domain priorities and potential areas for interoperability or joint development.
  
