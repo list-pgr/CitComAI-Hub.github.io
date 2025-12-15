@@ -65,7 +65,7 @@ The demonstrator integrates S3 and IoT data via Kafka, processes events through 
 ### Iteration 1: Descriptive Twin
 - Presents the current and historical state of the real-world asset, including both static and dynamic characteristics.
     <figure>
-    <img src="img/descriptive-twin.png"  width="350"/>
+    <img src="../img/descriptive-twin.png"  width="350"/>
     <figcaption>
 
     <small>Figure 1: Descriptive Twin Model(Source: [ETSI GR CIM 017 V1.1.1](https://www.etsi.org/deliver/etsi_gr/CIM/001_099/017/01.01.01_60/gr_CIM017v010101p.pdf))</small>
