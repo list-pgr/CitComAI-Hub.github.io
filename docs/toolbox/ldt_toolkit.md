@@ -75,7 +75,7 @@ The demonstrator integrates S3 and IoT data via Kafka, processes events through 
 ### Iteration 2: Predictive Twin
 - Builds on the descriptive twin by providing predictions of how the asset may evolve.
     <figure>
-    <img src="img/predictive-twin.png"  width="350"/>
+    <img src="../img/predictive-twin.png"  width="350"/>
     <figcaption>
 
     <small>Figure 2: Predicitve Twin Model (Source: [ETSI GR CIM 017 V1.1.1](https://www.etsi.org/deliver/etsi_gr/CIM/001_099/017/01.01.01_60/gr_CIM017v010101p.pdf))</small>
