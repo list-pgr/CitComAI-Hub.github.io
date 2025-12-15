@@ -29,7 +29,8 @@ For more details on the tools and methodologies supporting the development of Lo
 
 ![Scenario](img/scenario.svg)
 
-The scenario illustrated in the diagram above puts the LDT CitiVerse EDIC and CitCom.AI TEF sites in relation. While the EDIC aims at creating a federated network of Local Digital Twins (LDTs) across Europe, CitCom.AI leverages LDTs to test and integrate AI solutions, fostering innovation in Smart Cities and Communities.\
+The scenario illustrated in the diagram above puts the LDT CitiVerse EDIC and CitCom.AI TEF sites in relation. While the EDIC aims at creating a federated network of Local Digital Twins (LDTs) across Europe, CitCom.AI leverages LDTs to test and integrate AI solutions, fostering innovation in Smart Cities and Communities.
+
 AI innovators begin by collaborating with CitCom.AI TEF sites, where they can access real-world LDT environments to develop, test, and validate their AI solutions. Ideally, these environments should provide standardized, interoperable data and infrastructure aligned with EU LDT Toolbox guidelines.\
 Once solutions are successfully demonstrated within CitCom.AI, innovators can leverage the established interoperability and best practices to integrate their solutions into the broader EDIC federated LDT network. This pathway ensures that innovations are not only tested in realistic scenarios but are also ready for seamless adoption and scaling across multiple European cities and communities through the EDIC framework.\
 To ensure interoperability, the CitCom.AI LDTs, currently a set of heterogeneous and independent systems, should adopt common standards and frameworks outlined in the EU LDT Toolbox. This includes aligning data models, APIs, and communication protocols to enable seamless integration and collaboration across the EDIC federated LDT network.\
