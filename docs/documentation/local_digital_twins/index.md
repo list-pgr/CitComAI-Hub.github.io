@@ -21,7 +21,7 @@ Local Digital Twins (LDTs) are at the forefront of transforming how cities and c
 
 To facilitate collaboration and drive progress towards these goals, we established the LDT Club—a dedicated forum where stakeholders can share insights, align strategies, and collectively address challenges. This collaborative platform serves as a cornerstone for fostering innovation and ensuring that the transition to AI-ready and interoperable LDTs is both inclusive and effective.
 
-Meeting minutes, recordings and further materials related to the LDT Club are available under https://imecinternational.sharepoint.com/:f:/r/sites/Citcom.aiTEF/Shared%20Documents/WP3%20-%20Infrastructure/T3.2/LDT%20Club?csf=1&web=1&e=zyhvcL.
+Meeting minutes, recordings and further materials related to the LDT Club are available under [Club Meetings Sharepoint](https://imecinternational.sharepoint.com/:f:/r/sites/Citcom.aiTEF/Shared%20Documents/WP3%20-%20Infrastructure/T3.2/LDT%20Club?csf=1&web=1&e=zyhvcL).
 
 For more details on the tools and methodologies supporting the development of Local Digital Twins, refer to the [LDT Toolkit](../../toolbox/ldt_toolkit.md).
 
